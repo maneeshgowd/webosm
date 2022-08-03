@@ -7,4 +7,4 @@ A tool to quickstart your project with all the basic styling.
 
 Using npm:
 
-`npx i webosm`
+`npx webosm`
